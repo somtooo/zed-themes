@@ -23,7 +23,7 @@
         "editor.gutter.background": "#00000000",
         "editor.active_line.background": "#41464a33",
         "editor.highlighted_line.background": "#1743c7",
-        "editor.subheader.background": "#18285Cdd",
+        "editor.subheader.background": "#1743c7",
         "text": "#eeeeee",
         "text.muted": "#b8babd",
         "text.placeholder": "#727a7f",
